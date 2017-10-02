@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# 
+# Start of session at: Sat Sep 30 18:16:44 2017
+# Process ID: 9260
+# Current directory: C:/Users/Darius/Desktop/Y4S1/EE4218/tft/tft.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/Darius/Desktop/Y4S1/EE4218/tft/tft.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/Darius/Desktop/Y4S1/EE4218/tft/tft.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

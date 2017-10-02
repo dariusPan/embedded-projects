@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../tft.ip_user_files/bd/design_1/ip/design_1_axi_tft_0_0/sim/design_1_axi_tft_0_0.vhd"
+vhdl xil_defaultlib  "../../../tft.ip_user_files/bd/design_1/ip/design_1_rst_ps7_0_100M_0/sim/design_1_rst_ps7_0_100M_0.vhd"
+vhdl xil_defaultlib  "../../../tft.ip_user_files/bd/design_1/hdl/design_1.vhd"
+vhdl xil_defaultlib  "../../../tft.srcs/sources_1/imports/hdl/design_1_wrapper.vhd"
+
+# Do not sort compile order
+nosort
